@@ -1,0 +1,19 @@
+
+/*@charset "UTF-8";*/
+h2{
+    margin-bottom: 0;
+}
+em{
+    padding-right: 5px;
+    /*padding: 5px;*/
+    font-style: inherit;
+    font-weight: bold;
+}
+
+.basic-info span,.contact span{
+    margin-right: 40px;
+}
+.capability p :nth-child(3){
+	display: inline-block;
+	margin-bottom: 15px;
+}
